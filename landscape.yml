@@ -1,0 +1,27 @@
+landscape:
+  - category:
+    name: Project Partner
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Red Hat (member)
+            homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: IBM
+            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/red-hat-01.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+  - category:
+    name: CI Hack
+    subcategories:
+      - subcategory:
+        name: CI Hack
+        items:
+          - item:
+            name: Twitter
+            homepage_url: 'https://twitter.com/'
+            stock_ticker: TWTR
+            logo: twitter.svg
+            twitter: 'https://twitter.com/twitter'
+            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+

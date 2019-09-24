@@ -1,0 +1,79 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
+landscape:
+  - category:
+    name: Project Partner
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Red Hat (member)
+            homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: IBM
+            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/red-hat-01.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+            crunchbase_data:
+              name: Red Hat
+              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.redhat.com'
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: 'http://twitter.com/redhat'
+              linkedin: 'https://www.linkedin.com/company/red-hat'
+              ticker: RHT
+              kind: market_cap
+              parents: []
+            yahoo_finance_data:
+              market_cap: 33429835776
+              effective_ticker: RHT
+            image_data:
+              fileName: red-hat-member.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-11T21:07:01.000Z
+  - category:
+    name: CI Hack
+    subcategories:
+      - subcategory:
+        name: CI Hack
+        items:
+          - item:
+            name: Twitter
+            homepage_url: 'https://twitter.com/'
+            stock_ticker: TWTR
+            logo: twitter.svg
+            twitter: 'https://twitter.com/twitter'
+            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            crunchbase_data:
+              name: Twitter
+              description: Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as “tweets”.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.twitter.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/twitter'
+              linkedin: 'https://www.linkedin.com/company/twitter'
+              parents: []
+              ticker: TWTR
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 33185662976
+              effective_ticker: TWTR
+            image_data:
+              fileName: twitter.svg
+              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-20T01:24:38.000Z
+twitter_options:
+  count: 32
+  since_id: '1121971949217837057'
